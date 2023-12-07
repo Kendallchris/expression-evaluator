@@ -1,0 +1,3 @@
+/Users/chriskendall/Documents/GitHub/expression-evaluator-Kendallchris/cmake-build-debug/CMakeFiles/Evaluator.dir
+/Users/chriskendall/Documents/GitHub/expression-evaluator-Kendallchris/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chriskendall/Documents/GitHub/expression-evaluator-Kendallchris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
